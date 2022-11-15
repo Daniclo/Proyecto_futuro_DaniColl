@@ -1,3 +1,4 @@
+//Hecho Daniel Coll Fernández
 public class Main {
     public static void main(String[]args){
         Veredicto v = new Veredicto();
